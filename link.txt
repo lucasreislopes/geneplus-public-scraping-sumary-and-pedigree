@@ -1,0 +1,142 @@
+{
+    "nelore": {
+        "id_raca": 1,
+        "pedigree": "pedigree_nelore.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 810,
+                "arquivo": "touros_nelore.jsonl"
+            },
+            "touros_futuro":{
+                "id": 811,
+                "arquivo": "touros_futuro_nelore.jsonl"
+            },
+            "femeas":{
+                "id": 1148,
+                "arquivo": "femeas_nelore.jsonl"
+            }
+        }
+    },
+    "senepol":{
+        "id_raca": 2,
+        "pedigree": "pedigree_senepol.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 133,
+                "arquivo": "touros_senepol.jsonl"
+            },
+            "touros_futuro":{
+                "id": 132,
+                "arquivo": "touros_futuro_senepol.jsonl"
+            }
+        }
+    },
+    "canchim":{
+        "id_raca": 3,
+        "pedigree": "pedigree_canchim.jsonl",
+        "contratos": {
+            "touros":{
+                "id":193,
+                "arquivo":"touros_canchim.jsonl"
+            }
+        }
+    },
+    "caracu":{
+        "id_raca": 4,
+        "pedigree": "pedigree_caracu.jsonl",
+        "contratos": {
+            "touros":{
+                "id": 217,
+                "arquivo":"touros_caracu.jsonl"
+            },
+            "touros_futuro":{
+                "id":218,
+                "arquivo":"touros_futuro_caracu.jsonl"
+            }
+        }
+    },
+    "brahman":{
+        "id_raca": 5,
+        "pedigree": "pedigree_brahman.jsonl",
+        "contratos": {
+            "touros": {
+                "id":221,
+                "arquivo":"touros_brahman.jsonl"
+            }
+        }
+    },
+    "brangus": {
+        "id_raca":6,
+        "pedigree": "pedigree_brangus.jsonl",
+        "contratos": {
+            "touros": {
+                "id":232,
+                "arquivo": "touros_brangus.jsonl"
+            }
+        }
+    },
+    "santa_gertrudis": {
+        "id_raca": 7,
+        "pedigree": "pedigree_santa_gertrudis.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 257,
+                "arquivo": "touros_santa_gertrudis.jsonl"
+            },
+            "touros_futuro": {
+                "id": 256,
+                "arquivo": "touros_futuro_santa_gertrudis.jsonl"
+            }
+        }
+    },
+    "limousin":{
+        "id_raca": 8,
+        "pedigree": "pedigree_limousin.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 264,
+                "arquivo": "touros_limousin.jsonl"
+            }
+        }
+    },
+    "sindi": {
+        "id_raca": 9,
+        "pedigree": "pedigree_sindi.jsonl",
+        "contratos": {
+            "touros": {
+                "id":1011,
+                "arquivo": "touros_sindi.jsonl" 
+            }
+        }
+    },
+    "guzera": {
+        "id_raca": 11,
+        "pedigree": "pedigree_guzera.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 1012,
+                "arquivo": "touros_guzera.jsonl"
+            }
+        }
+    },
+    "tabapua": {
+        "id_raca":13,
+        "pedigree": "pedigree_tabapua.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 1171,
+                "arquivo": "touros_tabapua.jsonl"
+            }
+        }
+    },
+    "montana": {
+        "id_raca": 19,
+        "pedigree": "pedigree_montana.jsonl",
+        "contratos": {
+            "touros": {
+                "id": 1215,
+                "arquivo": "touros_montana.jsonl"
+            }
+        }
+    }
+}
